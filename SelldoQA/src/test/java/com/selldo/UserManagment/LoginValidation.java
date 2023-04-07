@@ -37,7 +37,7 @@ public class LoginValidation extends BaseTest {
 			}
 		}
 	}
-//Aniuket
+//Aniuke
 	@DataProvider(name = "getData")
 	public String[][] getData() throws IOException {
 
